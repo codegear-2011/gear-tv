@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Republic Bharat",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Republic_Bharat_Logo.svg/1200px-Republic_Bharat_Logo.svg.png",
+    "description": "Republic Bharat is the Hindi language news channel under Republic Media Network.",
+    "url": "https://rbindia.akamaized.net/hls/live/2034533/rbindia/index_1.m3u8",
+    "category": "News"
+  },
+  {
+    "id": "2",
+    "name": "Sansad TV HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sansad_TV_Logo.png",
+    "description": "Sansad TV is an Indian government television channel that broadcasts the proceedings of the two Houses of Indian Parliament.",
+    "url": "https://sansadtv.akamaized.net/hls/live/2014420/sansadtv/index.m3u8",
+    "category": "News"
+  },
+  {
+    "id": "3",
+    "name": "Zee News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Zee_News_logo.png",
+    "description": "24x7 Hindi news channel covering national and international news.",
+    "url": "https://zeenews.akamaized.net/hls/live/2014420/zeenews/index.m3u8",
+    "category": "News"
+  },
+  {
+    "id": "4",
+    "name": "Sony PIX",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/da/Sony_PIX_logo.png",
+    "description": "English movie channel featuring Hollywood blockbusters.",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "Movies"
+  },
+  {
+    "id": "5",
+    "name": "Discovery",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Discovery_logo.svg",
+    "description": "Infotainment channel showcasing documentaries about nature, science, and history.",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "Infotainment"
+  },
+  {
+    "id": "6",
+    "name": "MTV India",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/MTV_Logo_2021.svg",
+    "description": "Leading music and lifestyle channel for the youth.",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "Music"
+  },
+  {
+    "id": "7",
+    "name": "CNBC-TV18",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC-TV18_logo.png",
+    "description": "Business news and financial market analysis.",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "Business"
+  },
+  {
+    "id": "8",
+    "name": "Pogo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Pogo_logo.png",
+    "description": "Popular kids channel with classic and modern cartoons.",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "category": "Kids"
+  },
+  {
+    "id": "9",
+    "name": "DD News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/DD_News_Logo.png",
+    "description": "India's only 24-hour terrestrial news channel.",
+    "url": "https://ddnews.akamaized.net/hls/live/2014420/ddnews/index.m3u8",
+    "category": "News"
+  },
+  {
+    "id": "10",
+    "name": "Aaj Tak",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Aaj_Tak_logo.png",
+    "description": "Aaj Tak is a 24-hour Hindi news television channel owned by TV Today Network.",
+    "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+    "category": "News"
+  }
+]
