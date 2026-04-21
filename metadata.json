@@ -1,0 +1,6 @@
+{
+  "name": "JioTV Clone",
+  "description": "A JioTV-like streaming application featuring channel browsing, search, favorites, and an m3u8 video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
