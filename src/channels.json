@@ -4,7 +4,7 @@
     "name": "Republic Bharat",
     "logo": "https://media.licdn.com/dms/image/v2/D560BAQFO0MKKojrt0Q/company-logo_200_200/company-logo_200_200/0/1738063819184/republic_bharat_logo?e=2147483647&v=beta&t=Ri1S6JcOjWSHl7ljhbcfXGxRnUo0lh18Kzyzkk5Mzns",
     "description": "Republic Bharat is the Hindi language news channel under Republic Media Network.",
-    "url": "https://rbindia.akamaized.net/hls/live/2034533/rbindia/index_1.m3u8",
+    "url": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8",
     "category": "News"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Zee News",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_lOOYju0QagJeSufjULHbxKlqT1eu53KuA&s",
     "description": "24x7 Hindi news channel covering national and international news.",
-    "url": "https://zeenews.akamaized.net/hls/live/2014420/zeenews/index.m3u8",
+    "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8",
     "category": "News"
   },
   {
