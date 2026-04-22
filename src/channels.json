@@ -74,7 +74,7 @@
   {
     "id": "10",
     "name": "Aaj Tak",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Aaj_Tak_logo.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcaVLK6Fz8sgsgRC_ZRuUSO3VmqMCFwKbFDw&s",
     "description": "Aaj Tak is a 24-hour Hindi news television channel owned by TV Today Network.",
     "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "category": "News"
