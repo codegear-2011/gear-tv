@@ -10,7 +10,7 @@
   {
     "id": "2",
     "name": "Sansad TV HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sansad_TV_Logo.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRzJ1_mq_qQtZXwAtuG3pfKp49yU8Rjt19Q&s",
     "description": "Sansad TV is an Indian government television channel that broadcasts the proceedings of the two Houses of Indian Parliament.",
     "url": "https://sansadtv.akamaized.net/hls/live/2014420/sansadtv/index.m3u8",
     "category": "News"
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "name": "Zee News",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Zee_News_logo.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_lOOYju0QagJeSufjULHbxKlqT1eu53KuA&s",
     "description": "24x7 Hindi news channel covering national and international news.",
     "url": "https://zeenews.akamaized.net/hls/live/2014420/zeenews/index.m3u8",
     "category": "News"
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "name": "Sony PIX",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/da/Sony_PIX_logo.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmi96nFbWduAuH5rUlRWvSqT8vlxctrLcKw&s",
     "description": "English movie channel featuring Hollywood blockbusters.",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "category": "Movies"
@@ -34,7 +34,7 @@
   {
     "id": "5",
     "name": "Discovery",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Discovery_logo.svg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXr8EwkaiFqXfyxrTOfrIkGEuXmPd3mrQEA&s",
     "description": "Infotainment channel showcasing documentaries about nature, science, and history.",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "category": "Infotainment"
@@ -65,10 +65,10 @@
   },
   {
     "id": "9",
-    "name": "DD News",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/DD_News_Logo.png",
+    "name": "ABP ANANDA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/960px-ABP_Ananda_logo.svg.png?_=20220316082015",
     "description": "India's only 24-hour terrestrial news channel.",
-    "url": "https://ddnews.akamaized.net/hls/live/2014420/ddnews/index.m3u8",
+    "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
     "category": "News"
   },
   {
