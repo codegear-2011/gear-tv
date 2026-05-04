@@ -41,11 +41,11 @@
   },
   {
     "id": "6",
-    "name": "MTV India",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/MTV_Logo_2021.svg",
+    "name": "Kolkata TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFcyBKbx6MsGpYU8oo7qSAMzze4aZV9SjNPJG6V1qlQ&s=10",
     "description": "Leading music and lifestyle channel for the youth.",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-    "category": "Music"
+    "url": "https://cdn.ottlive.co.in/kolkatatv/tracks-v1a1/mono.m3u8",
+    "category": "News"
   },
   {
     "id": "7",
@@ -53,7 +53,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxs4r2CoJ_x0_JrgFtJajUIP6W6oZ-WGBBJQ&s",
     "description": "BPopular kids channel with classic and modern cartoons.",
     "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
-    "category": "Business"
+    "category": "Kids"
   },
   {
     "id": "8",
